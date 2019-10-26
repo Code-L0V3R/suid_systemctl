@@ -9,7 +9,7 @@
   
   2 : reload all modules at msf console, type reload_all 
   
-  3 : Enjoy.  
+  3 : gg.  
   
 ### Usage 
 ```
