@@ -5,7 +5,7 @@
   & get a root shell!
 
 ### Install
-  1 : copy the suid_systemctl.rb to ~/.msf4/modules/exploits/ folder
+  1 : copy the suid_systemctl.rb to ~/.msf4/modules/exploits/linux/local/ folder
   
   2 : reload all modules at msf console, type reload_all 
   
