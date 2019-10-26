@@ -9,8 +9,6 @@
   
   2 : reload all modules at msf console, type reload_all 
   
-  3 : gg.  
-  
 ### Usage 
 ```
 msf5 exploit(linux/local/suid_systemctl) > info
@@ -67,3 +65,4 @@ msf5 exploit(linux/local/suid_systemctl) > exploit
 ### References: 
   https://gtfobins.github.io/gtfobins/systemctl/
   
+# GG
